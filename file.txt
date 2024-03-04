@@ -1,0 +1,3 @@
+file 1: Checksum
+Checksum is a function that encode a file content to a SHA-1 code, that will be check to the copy
+of that file in other space.
