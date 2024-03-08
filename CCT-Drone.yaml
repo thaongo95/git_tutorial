@@ -1,0 +1,18 @@
+# CCT-Drone dataset 
+path: ./dataset #dataset root dir
+train: train/images   #train images (related to 'path')
+val: valid/images   #valid images (related to 'path')
+test: test/images   #test images (related to 'path')
+
+
+#Classes (7 classes in CCT-Drone dataset)
+# 'bicycle', 'bus', 'car', 'motorcycle', 'person', 'taxi', 'truck'
+
+names: 
+  0: bicycle
+  1: bus
+  2: car
+  3: motorcycle
+  4: percon
+  5: taxi
+  6: truck
